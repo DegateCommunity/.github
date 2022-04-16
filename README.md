@@ -1,0 +1,2 @@
+# .github
+Degate organization README.
